@@ -9,7 +9,6 @@
     <url>
     
       <loc>/author/admin/</loc>
-      <priority>0</priority>
     </url>
   
     <url>
@@ -54,6 +53,12 @@
     <url>
     
       <loc>/tags/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/admin/</loc>
       <priority>0</priority>
     </url>
   
