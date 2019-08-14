@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on </title>
-    <link>/authors/</link>
-    <description>Recent content in Authors on </description>
+    <title>Authors on Eli Levy Karin personal website</title>
+    <link>https://elileka.github.io/authors/</link>
+    <description>Recent content in Authors on Eli Levy Karin personal website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://elileka.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>admin</title>
-      <link>/authors/admin/</link>
+      <link>https://elileka.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/authors/admin/</guid>
+      <guid>https://elileka.github.io/authors/admin/</guid>
       <description></description>
     </item>
     
